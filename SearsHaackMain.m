@@ -7,8 +7,6 @@
 %
 % All drag coefficients are referenced to maximum frontal area.
 
-% Test for push control -Joe
-
 clear;
 clc;
 close all;
